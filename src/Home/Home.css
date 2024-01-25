@@ -1,0 +1,19 @@
+#home-div{
+display:inline-flex;
+align-items: center;
+text-align: center;
+justify-content: center;
+flex-direction: column;
+width: 100%;
+
+}
+
+h1{
+    font-size: 4em;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}

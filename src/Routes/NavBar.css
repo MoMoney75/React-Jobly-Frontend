@@ -1,0 +1,46 @@
+.loggedOut-NavBar{
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.loggedIn-NavBar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.loggedIn-NavBar > ul{
+    display: flex;
+}
+
+.loggedIn-NavBar > ul > li{
+    margin-left: 1em;
+    font-weight: bold;
+}
+.Link{
+    
+    text-decoration: none;
+    color: cadetblue;
+    
+}
+
+ul{
+    padding-left: 0;
+}
+
+li{
+ list-style: none;
+ font-size: 1.5em;
+}
+
+#Jobly{
+    width: 100%;
+    text-decoration: none;
+    color: cadetblue ;
+    font-size: 2rem;
+
+    
+    
+}
